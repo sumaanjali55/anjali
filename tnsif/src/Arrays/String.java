@@ -2,10 +2,6 @@ package Arrays;
 
 public class String {
 
-	public String(java.lang.String string) {
-		// TODO Auto-generated constructor stub
-	}
-
 	public static void main(java.lang.String[] args) {
 		// TODO Auto-generated method stub
 		java.lang.String x="hello";
@@ -15,7 +11,6 @@ public class String {
 		String s=new String("hello");
 		System.out.println(x.equals(s));
 		
-
 	}
 
 }
